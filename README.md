@@ -1,0 +1,2 @@
+# jingmalanDP
+javascript design pattern 
